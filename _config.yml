@@ -1,0 +1,106 @@
+# Site
+repository: sekkyo/resume
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Joel Peterson
+title: Architect Engineer
+email: joel@tehforce.net
+website: cv.tehforce.net
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: sekkyo
+github_username:  sekkyo
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: sekkyo
+linkedin_username: joeldpeterson
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+ orcid_username: 0000-0002-7993-4134
+
+# Additional icon links
+# additional_links:
+# - title: tehforce.net
+#   icon: fas fa-globe
+#   url: https://tehforce.net
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+# about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Joel and I'm an architect/engineer.
+
+  I do stuff.
+
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: STRIDES
+        link: https://cloud.cit.nih.gov
+        # link_text: Project Website
+        additional_links:
+          - title:  github.com/NIHGOV/cloud.cit.nih.gov
+            icon: fab fa-github
+            url: github.com/NIHGOV/cloud.cit.nih.gov
+        quote: >
+          This is the hardest thing I've ever done.
+        description: | # this will include new lines to allow paragraphs
+          My team and I are building the managed environments for National Institutes of Health's cloud-based research.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: National Institutes of Health, Center for Information Technology
+        link: cloud.cit.nih.gov
+        sub_title: Cloud Solution Architect
+        caption: May 2019 - Present
+        quote: >
+          Stupid prevention at scale.
+        description: | # this will include new lines to allow paragraphs
+           Architected the managed cloud environments for Amazon Web Services and Google Cloud Platform.
+
+  - title: About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      As with all things technology, I also very much enjoy:
+      - Cooking
+      - Eating
+      - Gaming
+     # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+# Footer
+footer_show_references: true
+references_title: References on request
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
