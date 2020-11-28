@@ -1,5 +1,5 @@
 # Site
-repository: sekkyo/resume
+repository: Sekkyo/resume
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -50,7 +50,7 @@ linkedin_username: joeldpeterson
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Joel and I'm an architect/engineer.
 
-  I do stuff.
+  I build stuff.
 
 content:
   - title: Projects # Title for the section
