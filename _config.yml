@@ -81,7 +81,6 @@ content:
            Prototype to production.
         description: | # this will include new lines to allow paragraphs
            Architected fully-managed cloud environments for Amazon Web Services and Google Cloud Platform.
-    content:
       - layout: right
         title: National Institutes of Health, National Eye Institute, Information Technology Management Branch
         link: nei.nih.gov
