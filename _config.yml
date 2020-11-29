@@ -81,6 +81,16 @@ content:
            Prototype to production.
         description: | # this will include new lines to allow paragraphs
            Architected fully-managed cloud environments for Amazon Web Services and Google Cloud Platform.
+    content:
+      - layout: right
+        title: National Institutes of Health, National Eye Institute, Information Technology Management Branch
+        link: nei.nih.gov
+        sub_title: Knowledge Management Officer
+        caption: August 2016 - May 2019
+        quote: >
+           Building a culture of collaboration.
+        description: | # this will include new lines to allow paragraphs
+           Evangelized the use of collaboration tools to build instituional wisdom.
 
   - title: About Me
     layout: text
