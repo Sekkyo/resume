@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: STRIDES
+        title: NIH STRIDES Initiative
         link: https://cloud.cit.nih.gov
         # link_text: Project Website
         additional_links:
@@ -89,25 +89,95 @@ content:
         quote: >
            Building a culture of collaboration.
         description: | # this will include new lines to allow paragraphs
-           Built new knowledge management position and programs from the ground up. Established and maintained budgets in support of new and existing programs. Formed multi-disciplinary committees to govern and support programs. Directed and supervised contractor work support of critical IT infrastructure. Developed training for end users. Led change management adoption within IT group. Provided years of experience with Office 365 as the technical lead for institute. Identified the need for a scientific data support position, provided consultations with principal investigators, and fast-tracking issue resolution and rapidly prototyping new technologies to production. Initiated, planned, executed, and closed out --including the financing -- of several new initiatives and projects: Amazon Web Services, Bizagi, Cylance, Google Suite, Splunk. Augmented the Enterprise Team as a Cloud Architect, deeply involved in infrastructure redesigns, migrations, federation integrations, cost management and budgets in Amazon Web Services, Azure, Google Compute Platform, and Google Suite. Formed NIH-wide Cloud Services group to disseminate best practices and increase Cloud adoption.
+           Built new knowledge management position and programs from the ground up. Established and maintained budgets in support of new and existing programs. Formed multi-disciplinary committees to govern and support programs. Directed and supervised contractor work support of critical IT infrastructure. Developed training for end users. Led change management adoption within IT group. Provided years of experience with Office 365 as the technical lead for institute. Identified the need for a scientific data support position, provided consultations with principal investigators, and fast-tracking issue resolution and rapidly prototyping new technologies to production. Initiated, planned, executed, and closed out --including the financing -- of several new initiatives and projects: Amazon Web Services, Bizagi, Cylance, Google Suite, Splunk. Augmented the Enterprise Team as a Cloud Architect, deeply involved in infrastructure redesigns, migrations, federation integrations, cost management and budgets in Amazon Web Services, Azure, Google Cloud Platform, and Google Suite. Formed NIH-wide Cloud Smart community of interest to disseminate best practices and increase cloud adoption.
       - layout: left
         title: Department of Veterans Affairs, VISN 21
         link: www.visn21.va.gov
         sub_title: SharePoint Developer
         caption: February 2012 - August 2016
         quote: >
-           Serving one's country, officially.
+           Public service, officially.
         description: | # this will include new lines to allow paragraphs
-           Continued same work for the Department of Veterans Affairs as a full-time employee. Trained, supported, and evangelized the uses of SharePoint in a network of healthcare systems with fourteen thousand direct customers.  Provided subject matter expertise to local, regional, and national deployment projects of complex information systems to guarantee quality products were delivered to customers. Directed and supervised contractor work; led small team of developers.  Scheduled and worked on major restructuring of a massive SharePoint portal organization.  Provided expertise and intimate knowledge of IT operations and plans to local and network-level information management committees.  Maintained a database in SharePoint to run nearly all aspects of the Golden Age Games, a large annual athletic event for over eight hundred Veterans.  Participated in the setup, logistics, operation, customer service, and crisis management of said national athletic event for Veterans.  Provided expert analytical advice on matters relating to knowledge management. Served as the staff expert for the development, coordination and integration of organization wide policy, practices, and strategies that supported the creation of processes, procedures and dissemination of knowledge via multiple communication means. Responsible for planning, developing, coordinating and programming the execution of all knowledge management related policies, activities and resources to ensure timely acquisition of and efficient dissemination of information throughout subordinate organizations and geographically separated units. Established system wide methodology for sharing information and data across the organization with inputs from all sectors. Developed strategies to make tacit knowledge explicit; implemented processes for identifying and validating subject matter experts; facilitated the sharing of best business practices across systems. Developed best practices that are repeatable and sustainable. Ensured that policy, practices, strategies were in compliance with organization goals, plans, policies and guidelines.
+           Continued same work for the Department of Veterans Affairs as a full-time employee. Trained, supported, and evangelized the uses of SharePoint in a network of healthcare systems with fourteen thousand direct customers. Provided subject matter expertise to local, regional, and national deployment projects of complex information systems to guarantee quality products were delivered to customers. Directed and supervised contractor work; led small team of developers. Scheduled and worked on major restructuring of a massive SharePoint portal organization. Provided expertise and intimate knowledge of IT operations and plans to local and network-level information management committees. Maintained a SharePoint application to run nearly all aspects of the Golden Age Games, a large annual athletic event for over eight hundred Veterans. Participated in the setup, logistics, operation, customer service, and crisis management of said national athletic event for Veterans. Provided expert analytical advice on matters relating to knowledge management. Served as the staff expert for the development, coordination and integration of organization wide policy, practices, and strategies that supported the creation of processes, procedures and dissemination of knowledge via multiple communication means. Responsible for planning, developing, coordinating and programming the execution of all knowledge management related policies, activities and resources to ensure timely acquisition of and efficient dissemination of information throughout subordinate organizations and geographically separated units. Established system wide methodology for sharing information and data across the organization with inputs from all sectors. Developed strategies to make tacit knowledge explicit; implemented processes for identifying and validating subject matter experts; facilitated the sharing of best business practices across systems. Developed best practices that are repeatable and sustainable. Ensured that policy, practices, strategies were in compliance with organization goals, plans, policies and guidelines.
       - layout: right
         title: Leverage Information Systems
         link: leverageis.com
         sub_title: SharePoint Developer
         caption: November 2009 - February 2012
         quote: >
-           Serving one's country.
+           Getting a foot in the door of public service.
         description: | # this will include new lines to allow paragraphs
-           Contracted to work full time for the Department of Veterans Affairs.  Architected and designed strategic direction for over a thousand SharePoint sites for the needs of health care services and teams with non-existent dynamic collaboration from scratch.  Trained, supported, and evangelized the uses of SharePoint in a network of healthcare systems with fourteen thousand direct customers.  Managed dozens of projects from inception to implementation.  Planned, selected, built, and maintained streaming media services for over a thousand simultaneous users.  Provided subject matter expertise to national deployment projects of Mac OS X, iOS, Windows 7, IT communication portals, and others to guarantee quality products were delivered to health providing customers.  Built from scratch over six months a database in SharePoint to run nearly all aspects of the Golden Age Games, a large annual athletic event for over eight hundred Veterans.  Participated in the setup, logistics, operation, customer service, and crisis management of said national athletic event for Veterans.
+           Contracted to work full time for the Department of Veterans Affairs. Architected and designed strategic direction for over a thousand SharePoint sites for the needs of health care services and teams with non-existent dynamic collaboration from scratch. Trained, supported, and evangelized the uses of SharePoint in a network of healthcare systems with fourteen thousand direct customers. Managed dozens of projects from inception to implementation. Planned, selected, built, and maintained streaming media services for over a thousand simultaneous users. Provided subject matter expertise to national deployment projects of Mac OS X, iOS, Windows 7, IT communication portals, and others to guarantee quality products were delivered to health providing customers. Built from scratch over six months a SharePoint application to run nearly all aspects of the Golden Age Games, a large annual athletic event for over eight hundred Veterans. Participated in the setup, logistics, operation, customer service, and crisis management of said national athletic event for Veterans.
+      - layout: left
+        title: Captaris, Open Text
+        link: www.opentext.com
+        sub_title: Software Engineer
+        caption: July 2007 - May 2009
+        quote: >
+           Ever design one pixel at a time, again?
+        description: | # this will include new lines to allow paragraphs
+           Continued previous responsibilities while tackling additional challenges to transition the team to Agile software development. Planned and carried out migration from an older source control system to Team Foundation Server. Developed and maintained certified Windows Installer projects. Architected, designed, and developed first time configuration interface for quick installation and best practices of network appliances with C#, ASP.NET and the AJAX Control Toolkit. Reviewed code commits and provided feedback to senior engineers and leadership. Refreshed user interfaces with decade-old legacies with latest interface design standards to better serve the customer base. Trained and provided support to a new support organization.
+      - layout: right
+        title: Castelle
+        link: www.opentext.com
+        sub_title: Senior Quality Engineer
+        caption: May 2005 - July 2007
+        quote: >
+           Onelab to rule them all.
+        description: | # this will include new lines to allow paragraphs
+           Designed and executed comprehensive test plans; including automated testing with TestComplete to drive nightly majority code coverage tests. Identified code defects with the Windows Heap Manager and WinDbg, giving developers a step up in developing solutions. Virtualized complex environments in VMware to optimize development cycles. Architected and administered development laboratory for over a dozen local and remote engineers. Provided development support inter-departmentally and for customers remotely and on-location.
+      - layout: left
+        title: Padus
+        link: legacy.padus.com
+        sub_title: Quality Engineer, Web Developer
+        caption: August 2001 - May 2005
+        quote: >
+           I don't even use optical drives anymore.
+        description: | # this will include new lines to allow paragraphs
+           Leveraged testing methodologies on thousands of different system configurations and platforms in assuring the quality and stability of each product. Controlled build and release processes for worldwide distribution of applications and development toolkits. Applied keen eye for aesthetics while redesigning all user interfaces. Developed all web content, marketing materials, and technical writing for the worldwide corporate identity. Managed servers facilitating corporate network and public presence. Coordinated relations and support with product partners, device manufacturers, and customers.
+      - layout: right
+        title: Remedy
+        link: en.wikipedia.org/wiki/Remedy_Corporation
+        sub_title: Presales Engineer
+        caption: July 1998 - May 2001
+        quote: >
+           Licensing on the localhost adapter is still one of the cleverest things I've seen in my career.
+        description: | # this will include new lines to allow paragraphs
+           Developed demo environments of the Remedy system, services, applications, and client programs for employees worldwide to use in product presentations to customers. Administered build environments over a multitude of platforms for the sales department. Designed and maintained pre-sales intranet and knowledge base. Acquired knowledge of creating and customizing the Remedy Action Request System, services, and applications.
+
+  - title: Education
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      San Jose State University
+      San Jose, California
+      Computer Science with most coursework completed
+
+  - title: Training
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Microsoft Certified Technology Specialist (MCTS): SQL Server 2005 MCP ID# 3613323
+      ITIL® Foundation Certification
+
+  - title: Languages
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Expert English, intermediate French, and novice Japanese.
+      I'm probably too proud that I can order what I want to eat in Spanish and Vietnamese.
+
+  - title: Cloud Provider Architecture & Administration Proficiency
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Adobe Creative Cloud; Amazon Web Services (AWS): CloudFront, CloudWatch, Cost Management, EC2, GuardDuty, IAM, Lightsail, RDS, Route 53, S3/Glacier, VPC; Azure: App Service, Azure Advisors, Azure Active Directory, Azure Advanced Threat Protection, Azure Database for MySQL, Azure Data Lake, Azure DNS, Azure SQL Database, Azure Storage, Content Delivery Network, Cost Management, Data Box, Security Center, Virtual Machines, Virtual Network, VPN Gateway, Windows Virtual Desktop; Cylance; Google Apps; Google Compute Platform.
+
+  - title: Programming Language Proficiency
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      ASP.NET; AJAX, jQuery; C#; C, C++; CSS, HTML; JavaScript; Objective-C; Perl; PHP; Shell, PowerShell; SQL; Swift; WiX; XAML; XML, XSL; YAML
+
+  - title: Development Environment & Tool Proficiency
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Eclipse; Git; GitHub; InstallShield; Perforce; Purify; Subversion; TestComplete; Trac; Azure DevOps, Visual Studio, MSBuild; WinDbg; Xcode;
 
   - title: About Me
     layout: text
