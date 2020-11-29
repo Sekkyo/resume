@@ -17,16 +17,9 @@ darkmode: false
 # Social links
 twitter_username: sekkyo
 github_username: sekkyo
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
 facebook_username: joeldpeterson
-# flickr_username: jekyll
-instagram_username: sekkyo
+# instagram_username: sekkyo
 linkedin_username: joeldpeterson
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# googleplus_username: +jekyll
 orcid_username: 0000-0002-7993-4134
 
 # Additional icon links
@@ -114,7 +107,7 @@ content:
         sub_title: Software Engineer
         caption: July 2007 - May 2009
         quote: >
-           Ever design one pixel at a time, again?
+           Ever design one pixel at a time?
         description: | # this will include new lines to allow paragraphs
            Continued previous responsibilities while tackling additional challenges to transition the team to Agile software development. Planned and carried out migration from an older source control system to Team Foundation Server. Developed and maintained certified Windows Installer projects. Architected, designed, and developed first time configuration interface for quick installation and best practices of network appliances with C#, ASP.NET and the AJAX Control Toolkit. Reviewed code commits and provided feedback to senior engineers and leadership. Refreshed user interfaces with decade-old legacies with latest interface design standards to better serve the customer base. Trained and provided support to a new support organization.
       - layout: right
