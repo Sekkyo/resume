@@ -89,7 +89,25 @@ content:
         quote: >
            Building a culture of collaboration.
         description: | # this will include new lines to allow paragraphs
-           Evangelized the use of collaboration tools to build instituional wisdom.
+           Built new knowledge management position and programs from the ground up. Established and maintained budgets in support of new and existing programs. Formed multi-disciplinary committees to govern and support programs. Directed and supervised contractor work support of critical IT infrastructure. Developed training for end users. Led change management adoption within IT group. Provided years of experience with Office 365 as the technical lead for institute. Identified the need for a scientific data support position, provided consultations with principal investigators, and fast-tracking issue resolution and rapidly prototyping new technologies to production. Initiated, planned, executed, and closed out --including the financing -- of several new initiatives and projects: Amazon Web Services, Bizagi, Cylance, Google Suite, Splunk. Augmented the Enterprise Team as a Cloud Architect, deeply involved in infrastructure redesigns, migrations, federation integrations, cost management and budgets in Amazon Web Services, Azure, Google Compute Platform, and Google Suite. Formed NIH-wide Cloud Services group to disseminate best practices and increase Cloud adoption.
+      - layout: left
+        title: Department of Veterans Affairs, VISN 21
+        link: www.visn21.va.gov
+        sub_title: SharePoint Developer
+        caption: February 2012 - August 2016
+        quote: >
+           Serving one's country, officially.
+        description: | # this will include new lines to allow paragraphs
+           Continued same work for the Department of Veterans Affairs as a full-time employee. Trained, supported, and evangelized the uses of SharePoint in a network of healthcare systems with fourteen thousand direct customers.  Provided subject matter expertise to local, regional, and national deployment projects of complex information systems to guarantee quality products were delivered to customers. Directed and supervised contractor work; led small team of developers.  Scheduled and worked on major restructuring of a massive SharePoint portal organization.  Provided expertise and intimate knowledge of IT operations and plans to local and network-level information management committees.  Maintained a database in SharePoint to run nearly all aspects of the Golden Age Games, a large annual athletic event for over eight hundred Veterans.  Participated in the setup, logistics, operation, customer service, and crisis management of said national athletic event for Veterans.  Provided expert analytical advice on matters relating to knowledge management. Served as the staff expert for the development, coordination and integration of organization wide policy, practices, and strategies that supported the creation of processes, procedures and dissemination of knowledge via multiple communication means. Responsible for planning, developing, coordinating and programming the execution of all knowledge management related policies, activities and resources to ensure timely acquisition of and efficient dissemination of information throughout subordinate organizations and geographically separated units. Established system wide methodology for sharing information and data across the organization with inputs from all sectors. Developed strategies to make tacit knowledge explicit; implemented processes for identifying and validating subject matter experts; facilitated the sharing of best business practices across systems. Developed best practices that are repeatable and sustainable. Ensured that policy, practices, strategies were in compliance with organization goals, plans, policies and guidelines.
+      - layout: right
+        title: Leverage Information Systems
+        link: leverageis.com
+        sub_title: SharePoint Developer
+        caption: November 2009 - February 2012
+        quote: >
+           Serving one's country.
+        description: | # this will include new lines to allow paragraphs
+           Contracted to work full time for the Department of Veterans Affairs.  Architected and designed strategic direction for over a thousand SharePoint sites for the needs of health care services and teams with non-existent dynamic collaboration from scratch.  Trained, supported, and evangelized the uses of SharePoint in a network of healthcare systems with fourteen thousand direct customers.  Managed dozens of projects from inception to implementation.  Planned, selected, built, and maintained streaming media services for over a thousand simultaneous users.  Provided subject matter expertise to national deployment projects of Mac OS X, iOS, Windows 7, IT communication portals, and others to guarantee quality products were delivered to health providing customers.  Built from scratch over six months a database in SharePoint to run nearly all aspects of the Golden Age Games, a large annual athletic event for over eight hundred Veterans.  Participated in the setup, logistics, operation, customer service, and crisis management of said national athletic event for Veterans.
 
   - title: About Me
     layout: text
