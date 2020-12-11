@@ -58,7 +58,7 @@ content:
             icon: fab fa-github
             url: github.com/NIHGOV/cloud.cit.nih.gov
         quote: >
-          This is the hardest thing I've ever done.
+          This is the most challenging thing I've ever done.
         description: | # this will include new lines to allow paragraphs
           My team and I are building the managed environments for National Institutes of Health's cloud-based research.
 
@@ -73,7 +73,7 @@ content:
         quote: >
            Prototype to production.
         description: | # this will include new lines to allow paragraphs
-           Architected fully-managed cloud environments for <mark>Amazon Web Services</mark> and <mark>Google Cloud Platform</mark>.
+           Formed and led the enterprise cloud services engineering team. Architected fully-managed cloud environments for <mark>Amazon Web Services</mark> and <mark>Google Cloud Platform</mark>. Coordinated on projects with cross-disciplinary Idenity/Access Management, Networking, and Cybersecurity teams to build an agency-tailored <mark>NIST 800-53</mark>-based ATO [https://cloud.gov/docs/compliance/ato-process/].
       - layout: right
         title: National Institutes of Health, National Eye Institute, Information Technology Management Branch
         link: nei.nih.gov
@@ -118,7 +118,7 @@ content:
         quote: >
            Onelab to rule them all.
         description: | # this will include new lines to allow paragraphs
-           Designed and executed comprehensive test plans; including automated testing with <mark>TestComplete</mark> to drive nightly majority code coverage tests. Identified code defects with <mark>Purify</mark> and <mark>WinDbg</mark>, giving developers a step up in developing solutions. Virtualized complex environments in <mark>VMware</mark>  to optimize development cycles. Architected and administered development laboratory for over a dozen local and remote engineers. Provided development support inter-departmentally and for customers remotely and on-location.
+           Designed and executed comprehensive test plans; including automated testing with <mark>TestComplete</mark> to drive nightly majority code coverage tests. Identified code defects with <mark>Purify</mark> and <mark>WinDbg</mark>, giving developers a step up in developing solutions. Virtualized complex environments in <mark>VMware</mark> to optimize development cycles. Architected and administered development laboratory for over a dozen local and remote engineers. Provided development support inter-departmentally and for customers remotely and on-location.
       - layout: left
         title: Padus
         link: legacy.padus.com
