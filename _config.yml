@@ -73,7 +73,7 @@ content:
         quote: >
            Prototype to production.
         description: | # this will include new lines to allow paragraphs
-           Formed and led the enterprise cloud services engineering team. Architected fully-managed cloud environments for <mark>Amazon Web Services</mark> and <mark>Google Cloud Platform</mark>. Coordinated on projects with cross-disciplinary Idenity/Access Management, Networking, and Cybersecurity teams to build agency-tailored <mark>NIST 800-53</mark>-based [ATOs](https://cloud.gov/docs/compliance/ato-process/).
+           Formed and led the enterprise cloud services engineering team. Architected fully-managed cloud environments for <mark>Amazon Web Services</mark> and <mark>Google Cloud Platform</mark>. Coordinated on projects with cross-disciplinary Identity/Access Management, Networking, and Cybersecurity teams to build agency-tailored <mark>NIST 800-53</mark>-based [ATOs](https://cloud.gov/docs/compliance/ato-process/).
       - layout: right
         title: National Institutes of Health, National Eye Institute, Information Technology Management Branch
         link: nei.nih.gov
@@ -160,7 +160,7 @@ content:
   - title: Cloud Provider Architecture & Administration Proficiency
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Adobe Creative Cloud; Amazon Web Services (AWS): CloudFront, CloudWatch, Cost Management, EC2, GuardDuty, IAM, Lightsail, RDS, Route 53, S3/Glacier, VPC; Azure: App Service, Azure Advisors, Azure Active Directory, Azure Advanced Threat Protection, Azure Database for MySQL, Azure Data Lake, Azure DNS, Azure SQL Database, Azure Storage, Content Delivery Network, Cost Management, Data Box, Security Center, Virtual Machines, Virtual Network, VPN Gateway, Windows Virtual Desktop; Cylance; Google Apps; Google Compute Platform.
+      Adobe Creative Cloud; Amazon Web Services (AWS): CloudFront, CloudWatch, Cost Management, EC2, GuardDuty, IAM, Lightsail, RDS, Route 53, S3/Glacier, VPC; Azure: App Service, Azure Advisors, Azure Active Directory, Azure Advanced Threat Protection, Azure Database for MySQL, Azure Data Lake, Azure DNS, Azure SQL Database, Azure Storage, Content Delivery Network, Cost Analysis, Data Box, Security Center, Virtual Machines, Virtual Network, VPN Gateway, Windows Virtual Desktop; Cylance; Google Apps; Google Cloud Platform.
 
   - title: Programming Language Proficiency
     layout: text
