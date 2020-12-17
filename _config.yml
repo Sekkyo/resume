@@ -73,7 +73,7 @@ content:
         quote: >
            Prototype to production.
         description: | # this will include new lines to allow paragraphs
-           Formed and led the enterprise cloud services engineering team. Architected fully-managed cloud environments for <mark>Amazon Web Services</mark> and <mark>Google Cloud Platform</mark>. Coordinated on projects with cross-disciplinary Identity/Access Management, Networking, and Cybersecurity teams to build agency-tailored <mark>NIST 800-53</mark>-based [ATOs](https://cloud.gov/docs/compliance/ato-process/).
+           Formed and led the enterprise cloud services engineering team. Architected fully-managed cloud environments for <mark>Amazon Web Services</mark> and <mark>Google Cloud Platform</mark>. Co-integrated NIH's enterprise sytems with cross-disciplinary Identity/Access Management, Networking, and Cybersecurity teams to build agency-tailored <mark>NIST 800-53</mark>-based [ATOs](https://cloud.gov/docs/compliance/ato-process/).
       - layout: right
         title: National Institutes of Health, National Eye Institute, Information Technology Management Branch
         link: nei.nih.gov
