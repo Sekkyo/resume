@@ -60,7 +60,7 @@ content:
         quote: >
           This is the most challenging thing I've ever done.
         description: | # this will include new lines to allow paragraphs
-          My team and I are building the managed environments for National Institutes of Health's cloud-based research.
+          My team and I are building the managed environments for National Institutes of Health's cloud-based research. We're working in all top three CIPS as well as a dozen SaaS providers. It's wonderfully challenging and rewarding.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -177,12 +177,11 @@ content:
     content: | # this will include new lines to allow paragraphs
       As with all things technology, I also very much enjoy:
       - Cooking
-      - Eating
       - Gaming
       - Golf
       - Fishing
       - Tennis
-     # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - [Eating sushi](https://www.youtube.com/watch?v=bDL8yu34fz0)
 
 # Footer
 footer_show_references: true
