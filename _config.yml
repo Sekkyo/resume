@@ -165,12 +165,12 @@ content:
   - title: Programming Language Proficiency
     layout: text
     content: | # this will include new lines to allow paragraphs
-      ASP.NET; AJAX, jQuery; C#; C, C++; CSS, HTML; JavaScript; Objective-C; Perl; PHP; Shell, PowerShell; SQL; Swift; WiX; XAML; XML, XSL; YAML
+      ASP.NET; AJAX, jQuery; C#; C, C++; CSS, HTML; JavaScript; Objective-C; Perl; PHP; Shell, PowerShell; SQL; Swift; WiX; XAML; XML, XSL; YAML.
 
   - title: Development Environment & Tool Proficiency
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Eclipse; Git; GitHub; InstallShield; Perforce; Purify; Subversion; TestComplete; Trac; Azure DevOps, Visual Studio, MSBuild; WinDbg; Xcode;
+      Eclipse; Git; GitHub; InstallShield; Perforce; Purify; Subversion; TestComplete; Trac; Azure DevOps, Visual Studio, MSBuild; WinDbg; Xcode.
 
   - title: About Me
     layout: text
