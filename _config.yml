@@ -142,7 +142,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       San Jose State University
+
       San Jose, California
+      
       Computer Science with most coursework completed
 
   - title: Training
@@ -162,6 +164,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Expert English, intermediate French, and novice Japanese.
+      
       I'm probably too proud that I can order what I want to eat in Spanish and Vietnamese.
 
   - title: Cloud Provider Architecture & Administration Proficiency
