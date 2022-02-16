@@ -149,9 +149,13 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Microsoft Certification ID: 3613323
+
       Microsoft Certified: Azure Administrator Associate
+      
       Microsoft Certified: Azure Fundamentals
+      
       Microsoft Certified: Technology Specialist SQL Server 2005
+      
       ITIL® Foundation Certification
 
   - title: Languages
