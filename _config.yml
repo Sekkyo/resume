@@ -68,7 +68,7 @@ content:
       - layout: left
         title: National Institutes of Health, Center for Information Technology, Cloud Services
         link: cloud.cit.nih.gov
-        sub_title: Cloud Solution Architect
+        sub_title: Master Chief Cloud Solution Architect
         caption: May 2019 - Present
         quote: >
            Prototype to production.
@@ -148,7 +148,10 @@ content:
   - title: Training
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Microsoft Certified Technology Specialist (MCTS): SQL Server 2005 MCP ID# 3613323
+      Microsoft Certification ID: 3613323
+      Microsoft Certified: Azure Administrator Associate
+      Microsoft Certified: Azure Fundamentals
+      Microsoft Certified: Technology Specialist SQL Server 2005
       ITIL® Foundation Certification
 
   - title: Languages
@@ -160,12 +163,17 @@ content:
   - title: Cloud Provider Architecture & Administration Proficiency
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Adobe Creative Cloud; Amazon Web Services (AWS): Amplify, CloudFront, CloudWatch, Cost Management, EC2, GuardDuty, IAM, Lightsail, RDS, Route 53, S3/Glacier, SSO, VPC, and... hopefully you get the idea there; Azure: App Service, Azure Active Directory, Azure Advanced Threat Protection, Azure Database for MySQL, Azure Data Lake, Azure DNS, Azure Insiders, Azure SQL Database, Azure Storage, Content Delivery Network, Cost Analysis, Data Box, Security Center, Virtual Machines, Virtual Network, VPN Gateway, Windows Virtual Desktop; Cylance; Google Apps; Google Cloud Platform.
+      Adobe Creative Cloud; Amazon Web Services (AWS): Amplify, CloudFront, CloudWatch, Cost Management, EC2, GuardDuty, IAM, Lightsail, RDS, Route 53, S3/Glacier, SSO, VPC, and... hopefully you get the idea there; Azure: App Service, Azure Active Directory, Azure Advanced Threat Protection, Azure Database for MySQL, Azure Data Lake, Azure DNS, Azure Firewall, Azure Insiders, Azure SQL Database, Azure Storage, Azure Virtual Desktop, Content Delivery Network, Cost Analysis, Data Box, Security Center, Virtual Machines, Virtual Network, Virtual WAN, VPN Gateway; Cylance; Google Apps; Google Cloud Platform.
 
   - title: Programming Language Proficiency
     layout: text
     content: | # this will include new lines to allow paragraphs
       ASP.NET; AJAX, jQuery; C#; C, C++; CSS, HTML; JavaScript; Objective-C; Perl; PHP; Shell, PowerShell; SQL; Swift; WiX; XAML; XML, XSL; YAML.
+
+  - title: Operating System Proficiency
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      I've picked up a considerable amount of knowledge of most operating systems internals: from the kernel architecture and debugging to security subsystems and the user frontend. I'm highly proficient in most distributions of Linux, use macOS as my daily driver, as still enjoy Windows often.
 
   - title: Development Environment & Tool Proficiency
     layout: text
