@@ -51,7 +51,7 @@ content:
     content:
       - layout: top-middle
         title: NIH STRIDES Initiative
-        link: https://cloud.cit.nih.gov
+        link: https://cloud.nih.gov
         # link_text: Project Website
         additional_links:
           - title:  github.com/NIHGOV/cloud.cit.nih.gov
@@ -67,7 +67,7 @@ content:
     content:
       - layout: left
         title: National Institutes of Health, Center for Information Technology, Cloud Services
-        link: cloud.cit.nih.gov
+        link: cloud.nih.gov
         sub_title: Master Chief Cloud Solution Architect
         caption: May 2019 - Present
         quote: >
