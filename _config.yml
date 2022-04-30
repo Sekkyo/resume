@@ -17,7 +17,7 @@ darkmode: false
 # Social links
 twitter_username: sekkyo
 github_username: sekkyo
-facebook_username: joeldpeterson
+# facebook_username: joeldpeterson
 # instagram_username: sekkyo
 linkedin_username: joeldpeterson
 orcid_username: 0000-0002-7993-4134
@@ -38,11 +38,9 @@ orcid_username: 0000-0002-7993-4134
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title:
+about_title: .
 about_profile_image: images/me.png
 about_content: | # this will include new lines to allow paragraphs
-
-
   I'm Joel, and I've really enjoyed being an architect/engineer over the last twenty-four years.
 
   I build complex systems as simple products for the users.
