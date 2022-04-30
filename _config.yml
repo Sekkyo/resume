@@ -41,7 +41,7 @@ orcid_username: 0000-0002-7993-4134
 about_title: Yo.
 about_profile_image: images/me.png
 about_content: | # this will include new lines to allow paragraphs
-  I'm Joel, and I've really enjoyed being an architect/engineer over the last twenty-three years.
+  I'm Joel, and I've really enjoyed being an architect/engineer over the last twenty-four years.
 
   I build complex systems as simple products for the users.
 
@@ -58,9 +58,9 @@ content:
             icon: fab fa-github
             url: github.com/NIHGOV/cloud.nih.gov
         quote: >
-          This is the most challenging thing I've ever done.
+          This is the most challenging and rewarding thing I've ever done.
         description: | # this will include new lines to allow paragraphs
-          My team and I are building the managed environments for National Institutes of Health's cloud-based research. We're working in all top three CIPS as well as a dozen SaaS providers. It's wonderfully challenging and rewarding.
+          My team and I are building the managed environments for National Institutes of Health's cloud-based research. We're working in all top three cloud providers as well as a dozen SaaS providers. It's wonderfully challenging and rewarding.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -82,7 +82,7 @@ content:
         quote: >
            Building a culture of collaboration.
         description: | # this will include new lines to allow paragraphs
-           Built new knowledge management position and programs from the ground up. Established and maintained budgets in support of new and existing programs. Formed multi-disciplinary committees to govern and support programs. Directed and supervised contractor work support of critical IT infrastructure. Developed training for end users. Led change management adoption within IT group. Provided years of experience with <mark>Office 365</mark> as the technical lead for institute. Identified the need for a scientific data support position, provided consultations with principal investigators, and fast-tracking issue resolution and rapidly prototyping new technologies to production. Initiated, planned, executed, and closed out --including the financing -- of several new initiatives and projects: <mark>Amazon Web Services</mark>, <mark>Bizagi</mark>, <mark>Cylance</mark>, <mark>Google Workspace</mark>, <mark>Splunk</mark>. Augmented the Enterprise Team as a Cloud Architect, deeply involved in infrastructure redesigns, migrations, federation integrations, cost management and budgets in Amazon Web Services, <mark>Azure</mark>, <mark>Google Cloud Platform</mark>, and Google Workspace. Formed NIH-wide Cloud Smart community of interest to disseminate best practices and increase cloud adoption.
+           Built new knowledge management position and programs from the ground up. Established and maintained budgets in support of new and existing programs. Formed multi-disciplinary committees to govern and support programs. Directed and supervised contractor work support of critical IT infrastructure. Developed training for end users. Led change management adoption within IT group. Provided years of experience with <mark>Microsoft 365</mark> as the technical lead for institute. Identified the need for a scientific data support position, provided consultations with principal investigators, and fast-tracking issue resolution and rapidly prototyping new technologies to production. Initiated, planned, executed, and closed out --including the financing -- of several new initiatives and projects: <mark>Amazon Web Services</mark>, <mark>Bizagi</mark>, <mark>Cylance</mark>, <mark>Google Workspace</mark>, <mark>Splunk</mark>. Augmented the Enterprise Team as a Cloud Architect, deeply involved in infrastructure redesigns, migrations, federation integrations, cost management and budgets in <mark>Amazon Web Services</mark>, <mark>Azure</mark>, <mark>Google Cloud Platform</mark>, and Google Workspace. Formed NIH-wide Cloud Smart community of interest to disseminate best practices and increase cloud adoption.
       - layout: left
         title: Department of Veterans Affairs, VISN 21
         link: www.visn21.va.gov
