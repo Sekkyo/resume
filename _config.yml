@@ -38,9 +38,11 @@ orcid_username: 0000-0002-7993-4134
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: Yo.
+about_title:
 about_profile_image: images/me.png
 about_content: | # this will include new lines to allow paragraphs
+
+
   I'm Joel, and I've really enjoyed being an architect/engineer over the last twenty-four years.
 
   I build complex systems as simple products for the users.
@@ -121,13 +123,13 @@ content:
            Designed and executed comprehensive test plans; including automated testing with <mark>TestComplete</mark> to drive nightly majority code coverage tests. Identified code defects with <mark>Purify</mark> and <mark>WinDbg</mark>, giving developers a step up in developing solutions. Virtualized complex environments in <mark>VMware</mark> to optimize development cycles. Architected and administered development laboratory for over a dozen local and remote engineers. Provided development support inter-departmentally and for customers remotely and on-location.
       - layout: left
         title: Padus
-        link: legacy.padus.com
+        link: padus.com
         sub_title: Quality Engineer, Web Developer
         caption: August 2001 - May 2005
         quote: >
            I don't even use optical drives anymore.
         description: | # this will include new lines to allow paragraphs
-           Leveraged testing methodologies on thousands of different system configurations and platforms in assuring the quality and stability of each product. Controlled build and release processes for worldwide distribution of applications and development toolkits. Applied keen eye for aesthetics while redesigning all user interfaces. Developed all web content, marketing materials, and technical writing for the worldwide corporate identity. Managed servers facilitating corporate network and public presence. Coordinated relations and support with product partners, device manufacturers, and customers.
+           Tested thousands of different system configurations and platforms to ensure the quality and stability of each product. Controlled build and release processes for worldwide distribution of applications and development toolkits. Applied keen eye for aesthetics while redesigning all user interfaces. Developed all web content, marketing materials, and technical writing for the worldwide corporate identity. Managed servers facilitating corporate network and public presence. Coordinated relations and support with product partners, device manufacturers, and customers.
       - layout: right
         title: Remedy
         link: en.wikipedia.org/wiki/Remedy_Corporation
