@@ -16,7 +16,6 @@ darkmode: false
 
 # Social links
 twitter_username: sekkyo
-github_username: petersonjdNIH
 github_username: sekkyo
 # facebook_username: joeldpeterson
 # instagram_username: sekkyo
@@ -24,10 +23,10 @@ linkedin_username: joeldpeterson
 orcid_username: 0000-0002-7993-4134
 
 # Additional icon links
-# additional_links:
-# - title: tehforce.net
-#   icon: fas fa-globe
-#   url: https://tehforce.net
+ additional_links:
+ - title: petersonjdNIH
+   icon: fas fa-github
+   url: https://github.com/petersonjdNIH
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
