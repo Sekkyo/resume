@@ -25,7 +25,7 @@ orcid_username: 0000-0002-7993-4134
 # Additional icon links
  additional_links:
  - title: petersonjdNIH
-   icon: fas fa-github
+   icon: fab fa-github
    url: https://github.com/petersonjdNIH
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
