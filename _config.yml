@@ -23,7 +23,7 @@ linkedin_username: joeldpeterson
 orcid_username: 0000-0002-7993-4134
 
 # Additional icon links
- additional_links:
+additional_links:
  - title: petersonjdNIH
    icon: fab fa-github
    url: https://github.com/petersonjdNIH
