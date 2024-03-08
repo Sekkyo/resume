@@ -41,7 +41,7 @@ orcid_username: 0000-0002-7993-4134
 about_title: Yo.
 about_profile_image: images/me.png
 about_content: | # this will include new lines to allow paragraphs
-  I'm Joel, and I've really enjoyed being an architect/engineer over the last twenty-four years.
+  I'm Joel, and I've really enjoyed being an architect/engineer over the last twenty-six years.
 
   I build complex systems as simple products for the users.
 
@@ -58,23 +58,32 @@ content:
             icon: fab fa-github
             url: github.com/NIHGOV/cloud.nih.gov
         quote: >
-          This is the most challenging and rewarding thing I've ever done.
+          This was one of the most challenging and rewarding thing I've ever done.
         description: | # this will include new lines to allow paragraphs
-          My team and I are building the managed environments for National Institutes of Health's cloud-based research. We're working in all top three cloud providers as well as a dozen SaaS providers. It's a wonderful candyland of technology.
+          My team and I built the managed environments for National Institutes of Health's cloud-based research. It was a lot of work in all top three cloud providers as well as a dozen SaaS providers.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Advanced Research Projects Agency for Health (ARPA-H)
+        link: arpa-h.gov
+        sub_title: Enterprise Architecture Lead
+        caption: April 2023*ish* - Present
+        quote: >
+           Launching a new federal agency.
+        description: | # this will include new lines to allow paragraphs
+           Built and led enterprise architecture from the ground up. Initiated, planned, and implemented new initiatives and enterprise offerings: <mark>Acquia Cloud</mark>, <mark>Adobe Creative Cloud</mark>, <mark>Akamai Edge DNS</mark>, <mark>Atlassian Cloud</mark>, <mark>Aware</mark>, <mark>Crowdstrike</mark>, <mark>DocuSign</mark>, <mark>Figma</mark>, <mark>Jamf</mark>, <mark>GitHub</mark>, <mark>HubSpot</mark>, <mark>IdeaScale</mark>, <mark>macOS</mark>, <mark>Microsoft Azure</mark>, <mark>Microsoft 365</mark>, <mark>Okta</mark>, <mark>Slack</mark>, <mark>Zendesk</mark>, <mark>Zoom</mark>. Managed enterprise infrastructure, migrations, identity, and integrations. Integrated ARPA-H's enterprise sytems with cross-disciplinary teams to build agency-tailored <mark>NIST 800-53</mark>-based [ATOs](https://cloud.gov/docs/compliance/ato-process/). Architected and led technical development of the [ARPA-H website](https://arpa-h.gov) using <mark>Jekyll</mark>, <mark>U.S. Web Design System</mark>, <mark>GitHub Pages</mark>, <mark>Azure Logic Apps</mark>, <mark>Azure Static Web Apps</mark>, and <mark>Google Analytics & Search</mark> to support the agency formation and ongoing mission. Architected and led technical development of an internal business application on the <mark>Power Platform</mark>. Provided institutional knowledge and technical expertise to programs and services seeking consultation on most effective approaches to everyday and complex challenges.
+      - layout: right
         title: National Institutes of Health, Center for Information Technology, Cloud Services
         link: cloud.nih.gov
-        sub_title: Master Chief Cloud Solution Architect
+        sub_title: Cloud Solution Architect
         caption: May 2019 - Present
         quote: >
            Rapidly prototype to production.
         description: | # this will include new lines to allow paragraphs
-           Third federal hire for the STRIDES Initiative. Built and led technology team from the ground up. Initiated, planned, and implemented new initiatives and enterprise offerings: <mark>Amazon Web Services</mark>, <mark>Atlassian Cloud</mark>, <mark>Azure</mark>, <mark>Kion</mark>, <mark>GitHub Enterprise Cloud</mark>, <mark>Google Cloud Platform</mark>, <mark>Microsoft Defender for Cloud Apps</mark>, <mark>Slack</mark>. Architected enterprise infrastructure, migrations, identity, integrations, interconnections, cost management and budgets in Amazon Web Services, Azure, Google Cloud Platform. Integrated NIH's enterprise sytems with cross-disciplinary Identity/Access Management, Networking, and Cybersecurity teams to build agency-tailored <mark>NIST 800-53</mark>-based [ATOs](https://cloud.gov/docs/compliance/ato-process/). Architected and led technical development of the [STRIDES website](https://cloud.nih.gov) using <mark>Jekyll</mark>, <mark>U.S. Web Design System</mark>, <mark>GitHub Pages</mark>, <mark>AWS Amplify</mark>, <mark>Azure Static Web Apps</mark>, <mark>Google Analytics & Search</mark>, and <mark>Microsoft Clarity</mark> to support the STRIDES Initiative. Architected and led technical development of an internal business application on the <mark>Power Platform</mark> and <mark>Dynamics 365</mark>. Mentored four cohorts of Civic Digital Fellows from the [Coding It Forward](https://codingitforward.com) program in the fields of data science, design, program management, and software engineering. Provided institutional knowledge and technical expertise to programs and services seeking consultation on most effective approaches to everyday and complex challenges, including the <mark>COVID-19</mark> shift of the entire workforce to remote work. Continued co-leading NIH-wide Cloud Services group to disseminate best practices and increase Cloud adoption.
-      - layout: right
+           Third federal hire for the STRIDES Initiative. Built and led technology team from the ground up. Initiated, planned, and implemented new initiatives and enterprise offerings: <mark>Amazon Web Services</mark>, <mark>Atlassian Cloud</mark>, <mark>Azure</mark>, <mark>Kion</mark>, <mark>GitHub Enterprise Cloud</mark>, <mark>Google Cloud Platform</mark>, <mark>Microsoft Defender for Cloud Apps</mark>, <mark>Slack</mark>. Architected enterprise infrastructure, migrations, identity, integrations, interconnections, cost management and budgets in Amazon Web Services, Azure, Google Cloud Platform. Integrated NIH's enterprise sytems with cross-disciplinary Identity/Access Management, Networking, and Cybersecurity teams to build agency-tailored <mark>NIST 800-53</mark>-based [ATOs](https://cloud.gov/docs/compliance/ato-process/). Architected and led technical development of the [STRIDES website](https://cloud.nih.gov) using <mark>Jekyll</mark>, <mark>U.S. Web Design System</mark>, <mark>GitHub Pages</mark>, <mark>AWS Amplify</mark>, <mark>Azure Static Web Apps</mark>, <mark>Google Analytics & Search</mark>, and <mark>Microsoft Clarity</mark> to support the STRIDES Initiative. Architected and led technical development of an internal business application on the <mark>Power Platform</mark> and <mark>Dynamics 365</mark>. Mentored four cohorts of Civic Digital Fellows from the [Coding It Forward](https://codingitforward.com) program in the fields of data science, design, program management, and software engineering. Provided institutional knowledge and technical expertise to programs and services seeking consultation on most effective approaches to everyday and complex challenges, including the <mark>COVID-19</mark> shift of the entire workforce to remote work. Continued co-leading NIH-wide Cloud Services group to disseminate best practices and increase Cloud adoption. Consulted on the early days of the formation of a new agency, tbe Advanced Research Projects Agency for Health (ARPA-H). 
+      - layout: left
         title: National Institutes of Health, National Eye Institute, Information Technology Management Branch
         link: nei.nih.gov
         sub_title: Knowledge Management Officer
@@ -83,7 +92,7 @@ content:
            Building a culture of collaboration.
         description: | # this will include new lines to allow paragraphs
            Built new knowledge management position and programs from the ground up. Established and maintained budgets in support of new and existing programs. Formed multi-disciplinary committees to govern and support programs. Directed and supervised contractor work support of critical IT infrastructure. Developed training for end users. Led change management adoption within IT group. Provided years of experience with <mark>Microsoft 365</mark> as the technical lead for institute. Identified the need for a scientific data support position, provided consultations with principal investigators, and fast-tracking issue resolution and rapidly prototyping new technologies to production. Initiated, planned, executed, and closed out --including the financing -- of several new initiatives and projects: <mark>Amazon Web Services</mark>, <mark>Bizagi</mark>, <mark>Cylance</mark>, <mark>Google Workspace</mark>, <mark>Splunk</mark>. Augmented the Enterprise Team as a Cloud Architect, deeply involved in infrastructure redesigns, migrations, federation integrations, cost management and budgets in <mark>Amazon Web Services</mark>, <mark>Azure</mark>, <mark>Google Cloud Platform</mark>, and Google Workspace. Formed NIH-wide Cloud Smart community of interest to disseminate best practices and increase cloud adoption.
-      - layout: left
+      - layout: right
         title: Department of Veterans Affairs, VISN 21
         link: www.visn21.va.gov
         sub_title: SharePoint Developer
@@ -92,7 +101,7 @@ content:
            Public service, officially.
         description: | # this will include new lines to allow paragraphs
            Continued same work for the Department of Veterans Affairs as a full-time employee. Trained, supported, and evangelized the uses of <mark>SharePoint</mark> in a network of healthcare systems with fourteen thousand direct customers. Provided subject matter expertise to local, regional, and national deployment projects of complex information systems to guarantee quality products were delivered to customers. Directed and supervised contractor work; led small team of developers. Scheduled and worked on major restructuring of a massive SharePoint portal organization. Provided expertise and intimate knowledge of IT operations and plans to local and network-level information management committees. Maintained a SharePoint application to run nearly all aspects of the Golden Age Games, a large annual athletic event for over eight hundred Veterans. Participated in the setup, logistics, operation, customer service, and crisis management of said national athletic event for Veterans. Provided expert analytical advice on matters relating to knowledge management. Served as the staff expert for the development, coordination and integration of organization wide policy, practices, and strategies that supported the creation of processes, procedures and dissemination of knowledge via multiple communication means. Responsible for planning, developing, coordinating and programming the execution of all knowledge management related policies, activities and resources to ensure timely acquisition of and efficient dissemination of information throughout subordinate organizations and geographically separated units. Established system wide methodology for sharing information and data across the organization with inputs from all sectors. Developed strategies to make tacit knowledge explicit; implemented processes for identifying and validating subject matter experts; facilitated the sharing of best business practices across systems. Developed best practices that are repeatable and sustainable. Ensured that policy, practices, strategies were in compliance with organization goals, plans, policies and guidelines.
-      - layout: right
+      - layout: left
         title: Leverage Information Systems
         link: leverageis.com
         sub_title: SharePoint Developer
@@ -101,7 +110,7 @@ content:
            Getting a foot in the door of public service.
         description: | # this will include new lines to allow paragraphs
            Contracted to work full time for the Department of Veterans Affairs. Architected and designed strategic direction for over a thousand SharePoint sites for the needs of health care services and teams with non-existent dynamic collaboration from scratch. Trained, supported, and evangelized the uses of SharePoint in a network of healthcare systems with fourteen thousand direct customers. Managed dozens of projects from inception to implementation. Planned, selected, built, and maintained streaming media services for over a thousand simultaneous users. Provided subject matter expertise to national deployment projects of <mark>macOS</mark>, <mark>iOS</mark>, <mark>Windows</mark>, IT communication portals, and others to guarantee quality products were delivered to health providing customers. Built from scratch over six months a SharePoint application to run nearly all aspects of the Golden Age Games, a large annual athletic event for over eight hundred Veterans. Participated in the setup, logistics, operation, customer service, and crisis management of said national athletic event for Veterans.
-      - layout: left
+      - layout: right
         title: Captaris, Open Text
         link: www.opentext.com
         sub_title: Software Engineer
@@ -110,7 +119,7 @@ content:
            Ever design one pixel at a time?
         description: | # this will include new lines to allow paragraphs
            Continued previous responsibilities while tackling additional challenges to transition the team to Agile software development. Planned and carried out migration from an older source control system to <mark>Team Foundation Server</mark>. Developed and maintained certified <mark>Windows Installer</mark> projects. Architected, designed, and developed first time configuration interface for quick installation and best practices of network appliances with <mark>C#</mark>, <mark>ASP.NET</mark> and the <mark>AJAX Control Toolkit</mark>. Reviewed code commits and provided feedback to senior engineers and leadership. Refreshed user interfaces with decade-old legacies with latest interface design standards to better serve the customer base. Trained and provided support to a new support organization.
-      - layout: right
+      - layout: left
         title: Castelle
         link: www.opentext.com
         sub_title: Senior Quality Engineer
@@ -119,7 +128,7 @@ content:
            Onelab to rule them all.
         description: | # this will include new lines to allow paragraphs
            Designed and executed comprehensive test plans; including automated testing with <mark>TestComplete</mark> to drive nightly majority code coverage tests. Identified code defects with <mark>Purify</mark> and <mark>WinDbg</mark>, giving developers a step up in developing solutions. Virtualized complex environments in <mark>VMware</mark> to optimize development cycles. Architected and administered development laboratory for over a dozen local and remote engineers. Provided development support inter-departmentally and for customers remotely and on-location.
-      - layout: left
+      - layout: right
         title: Padus
         link: padus.com
         sub_title: Quality Engineer, Web Developer
@@ -128,7 +137,7 @@ content:
            I don't even use optical drives anymore.
         description: | # this will include new lines to allow paragraphs
            Tested thousands of different system configurations and platforms to ensure the quality and stability of each product. Controlled build and release processes for worldwide distribution of applications and development toolkits. Applied keen eye for aesthetics while redesigning all user interfaces. Developed all web content, marketing materials, and technical writing for the worldwide corporate identity. Managed servers facilitating corporate network and public presence. Coordinated relations and support with product partners, device manufacturers, and customers.
-      - layout: right
+      - layout: left
         title: Remedy
         link: en.wikipedia.org/wiki/Remedy_Corporation
         sub_title: Presales Engineer
