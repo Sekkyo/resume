@@ -94,7 +94,7 @@ content:
            Built new knowledge management position and programs from the ground up. Established and maintained budgets in support of new and existing programs. Formed multi-disciplinary committees to govern and support programs. Directed and supervised contractor work support of critical IT infrastructure. Developed training for end users. Led change management adoption within IT group. Provided years of experience with <mark>Microsoft 365</mark> as the technical lead for institute. Identified the need for a scientific data support position, provided consultations with principal investigators, and fast-tracking issue resolution and rapidly prototyping new technologies to production. Initiated, planned, executed, and closed out --including the financing -- of several new initiatives and projects: <mark>Amazon Web Services</mark>, <mark>Bizagi</mark>, <mark>Cylance</mark>, <mark>Google Workspace</mark>, <mark>Splunk</mark>. Augmented the Enterprise Team as a Cloud Architect, deeply involved in infrastructure redesigns, migrations, federation integrations, cost management and budgets in <mark>Amazon Web Services</mark>, <mark>Azure</mark>, <mark>Google Cloud Platform</mark>, and Google Workspace. Formed NIH-wide Cloud Smart community of interest to disseminate best practices and increase cloud adoption.
       - layout: right
         title: Department of Veterans Affairs, VISN 21
-        link: www.visn21.va.gov
+        link: visn21.va.gov
         sub_title: SharePoint Developer
         caption: February 2012 - August 2016
         quote: >
@@ -112,7 +112,7 @@ content:
            Contracted to work full time for the Department of Veterans Affairs. Architected and designed strategic direction for over a thousand SharePoint sites for the needs of health care services and teams with non-existent dynamic collaboration from scratch. Trained, supported, and evangelized the uses of SharePoint in a network of healthcare systems with fourteen thousand direct customers. Managed dozens of projects from inception to implementation. Planned, selected, built, and maintained streaming media services for over a thousand simultaneous users. Provided subject matter expertise to national deployment projects of <mark>macOS</mark>, <mark>iOS</mark>, <mark>Windows</mark>, IT communication portals, and others to guarantee quality products were delivered to health providing customers. Built from scratch over six months a SharePoint application to run nearly all aspects of the Golden Age Games, a large annual athletic event for over eight hundred Veterans. Participated in the setup, logistics, operation, customer service, and crisis management of said national athletic event for Veterans.
       - layout: right
         title: Captaris, Open Text
-        link: www.opentext.com
+        link: opentext.com
         sub_title: Software Engineer
         caption: July 2007 - May 2009
         quote: >
@@ -121,7 +121,7 @@ content:
            Continued previous responsibilities while tackling additional challenges to transition the team to Agile software development. Planned and carried out migration from an older source control system to <mark>Team Foundation Server</mark>. Developed and maintained certified <mark>Windows Installer</mark> projects. Architected, designed, and developed first time configuration interface for quick installation and best practices of network appliances with <mark>C#</mark>, <mark>ASP.NET</mark> and the <mark>AJAX Control Toolkit</mark>. Reviewed code commits and provided feedback to senior engineers and leadership. Refreshed user interfaces with decade-old legacies with latest interface design standards to better serve the customer base. Trained and provided support to a new support organization.
       - layout: left
         title: Castelle
-        link: www.opentext.com
+        link: opentext.com
         sub_title: Senior Quality Engineer
         caption: May 2005 - July 2007
         quote: >
@@ -205,7 +205,7 @@ content:
       - Golf
       - Fishing
       - Tennis
-      - [Eating sushi](https://www.youtube.com/watch?v=bDL8yu34fz0)
+      - [Eating sushi](https://youtube.com/watch?v=bDL8yu34fz0)
 
 # Footer
 footer_show_references: true
