@@ -43,7 +43,7 @@ about_profile_image: images/me.png
 about_content: | # this will include new lines to allow paragraphs
   I'm Joel, and I've really enjoyed being an architect/engineer over the last twenty-six years.
 
-  I build complex systems as fantastic products for the users.
+  I build complex systems as great products for the users.
 
 content:
   - title: Projects # Title for the section
@@ -68,17 +68,17 @@ content:
       - layout: left
         title: Advanced Research Projects Agency for Health (ARPA-H)
         link: arpa-h.gov
-        sub_title: Enterprise Architecture Lead
-        caption: April 2023ish - Present
+        sub_title: Enterprise Architect
+        caption: April 2023 - Present
         quote: >
            Launching a new federal agency.
         description: | # this will include new lines to allow paragraphs
-           Built and led the new agency's enterprise architecture from the ground up. Initiated, planned, and implemented new initiatives and enterprise offerings: <mark>Acquia Cloud</mark>, <mark>Adobe Creative Cloud</mark>, <mark>Akamai Edge DNS</mark>, <mark>Atlassian Cloud</mark>, <mark>Aware</mark>, <mark>Crowdstrike</mark>, <mark>DocuSign</mark>, <mark>Figma</mark>, <mark>Jamf</mark>, <mark>GitHub</mark>, <mark>HubSpot</mark>, <mark>IdeaScale</mark>, <mark>macOS</mark>, <mark>Microsoft Azure</mark>, <mark>Microsoft 365</mark>, <mark>Okta</mark>, <mark>Slack</mark>, <mark>Zendesk</mark>, <mark>Zoom</mark>. Managed enterprise infrastructure, migrations, identity, and integrations. Integrated ARPA-H's enterprise sytems with cross-disciplinary teams to build agency-tailored <mark>NIST 800-53</mark>-based [ATOs](https://cloud.gov/docs/compliance/ato-process/). Architected and led technical development of the [ARPA-H website](https://arpa-h.gov) using <mark>Jekyll</mark>, <mark>U.S. Web Design System</mark>, <mark>GitHub Pages</mark>, <mark>Azure Logic Apps</mark>, <mark>Azure Static Web Apps</mark>, and <mark>Google Analytics & Search</mark> to support the agency formation and ongoing mission. Architected and led technical development of an internal business applications on the <mark>Power Platform</mark>. Provided institutional knowledge and technical expertise to programs and services seeking consultation on most effective approaches to everyday and complex challenges.
+           Built and led the new agency's enterprise architecture from the ground up. Initiated, planned, and implemented new projects and enterprise offerings: <mark>Acquia Cloud</mark>, <mark>Adobe Creative Cloud</mark>, <mark>Akamai Edge DNS</mark>, <mark>Atlassian Cloud</mark>, <mark>Aware</mark>, <mark>BeyondTrust</mark>, <mark>CrowdStrike</mark>, <mark>DocuSign</mark>, <mark>Figma</mark>, <mark>Jamf</mark>, <mark>GitHub</mark>, <mark>HubSpot</mark>, <mark>IdeaScale</mark>, <mark>macOS</mark>, <mark>Microsoft Azure</mark>, <mark>Microsoft 365</mark>, <mark>Okta</mark>, <mark>Slack</mark>, <mark>WebEx</mark>, <mark>Zendesk</mark>, <mark>Zoom</mark>. Managed enterprise infrastructure, migrations, identity, and integrations. Integrated ARPA-H's enterprise sytems with cross-disciplinary teams to build agency-tailored <mark>NIST 800-53</mark>-based [ATOs](https://cloud.gov/docs/compliance/ato-process/). Architected and led technical development of the [ARPA-H website](https://arpa-h.gov) using <mark>Jekyll</mark>, <mark>U.S. Web Design System</mark>, <mark>GitHub Pages</mark>, <mark>Azure Logic Apps</mark>, <mark>Azure Static Web Apps</mark>, and <mark>Google Analytics & Search</mark> to support the agency formation and ongoing mission. Architected and led technical development of an internal business applications on the <mark>Power Platform</mark>. Provided institutional knowledge and technical expertise to programs and services seeking consultation on most effective approaches to everyday and complex challenges.
       - layout: right
         title: National Institutes of Health, Center for Information Technology, Cloud Services
         link: cloud.nih.gov
         sub_title: Cloud Solution Architect
-        caption: May 2019 - Present
+        caption: May 2019 - April 2024
         quote: >
            Rapidly prototype to production.
         description: | # this will include new lines to allow paragraphs
@@ -134,7 +134,7 @@ content:
         sub_title: Quality Engineer, Web Developer
         caption: August 2001 - May 2005
         quote: >
-           I don't even use optical drives anymore.
+           Who uses optical drives anymore?
         description: | # this will include new lines to allow paragraphs
            Tested thousands of different system configurations and platforms to ensure the quality and stability of each product. Controlled build and release processes for worldwide distribution of applications and development toolkits. Applied keen eye for aesthetics while redesigning all user interfaces. Developed all web content, marketing materials, and technical writing for the worldwide corporate identity. Managed servers facilitating corporate network and public presence. Coordinated relations and support with product partners, device manufacturers, and customers.
       - layout: left
